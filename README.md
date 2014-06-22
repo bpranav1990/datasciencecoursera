@@ -1,7 +1,5 @@
 datasciencecoursera
 ===================
-$ mkdir ~/datasciencecoursera
-$ cd ~/datasciencecoursera
-add HelloWorld.md
+## HelloWorld
 ## This is a markdown file
 
